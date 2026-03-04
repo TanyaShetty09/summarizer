@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+requests
+python-multipart
+reportlab
+gtts
+langdetect
+transformers
+torch
